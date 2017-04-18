@@ -29,4 +29,4 @@ hotend-silicone socks-middle.123dx
 hotend-silicone socks cover.stl
 hotend-silicone socks middle nozzle case.stl
 hotend-silicone socks mold middle nozzle.stl
-
+hotend-silicone socks cover v2.stl
