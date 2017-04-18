@@ -22,11 +22,11 @@ silicone_socks_cover_printed.JPG
 middle_nozzle_mold_printed.JPG  
 middle_nozzle_printed.JPG  
 
-シリコン型のソース
-hotend-silicone socks-middle.123dx
+シリコン型のソース  
+hotend-silicone socks-middle.123dx  
 
-シリコン型のプリント用STLファイル
-hotend-silicone socks cover.stl
-hotend-silicone socks middle nozzle case.stl
-hotend-silicone socks mold middle nozzle.stl
-hotend-silicone socks cover v2.stl
+シリコン型のプリント用STLファイル  
+hotend-silicone socks cover.stl  
+hotend-silicone socks middle nozzle case.stl  
+hotend-silicone socks mold middle nozzle.stl  
+hotend-silicone socks cover v2.stl  
